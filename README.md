@@ -12,7 +12,7 @@ Jalankan perintah berikut di Termux:
 apt update -y && apt upgrade
 apt install git -y
 apt install python -y
-git clone https://github.com/acasomi/Ig
-cd Ig
+git clone https://github.com/acasomi/ig
+cd ig
 pip install requests colorama
 python run.py
